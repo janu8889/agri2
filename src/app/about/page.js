@@ -97,9 +97,7 @@ export default function About() {
           Our company carries a robust fleet of industry-reliable construction and agricultural brands, offering warranty, service and expertise for all.
         </p>
 
-        {/* <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Daniel R. Petrov, Sales & Marketing Director at Farmers Tractor & Equip Co, gained his experience with equipment from being involved at an early age in his family’s landscaping and snow removal company. He learned that buying clean, quality used equipment was one of the best ways to have the right equipment at the right time without the high payments of new machinery or expensive rental costs. Today, Daniel and the team at Farmers Tractor & Equip Co are focused on helping customers stay profitable by providing reliable used equipment that helps get the job done efficiently and affordably.
-        </p> */}
+      
 
       </div>
 

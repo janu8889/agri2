@@ -90,9 +90,9 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
               </div>
 
               <p className="text-[#555] mb-8">
-                6101 Hogan Rd 
+                1132 S Main St 
                 <br />
-                 Waunakee, WI 53597
+                Porterville, CA 93257
               </p>
 
               <a
