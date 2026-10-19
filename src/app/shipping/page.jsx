@@ -157,7 +157,7 @@ export default function Shipping() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">
         <p className="text-[#222222] text-[16px] md:text-[18px] leading-relaxed">
-          Carl F. Statz & Sons Inc, we specialise in providing comprehensive transportation and shipping services for a wide range of agricultural and construction equipment, encompassing all makes, models, and years of manufacture. Our highly experienced team is dedicated to ensuring the safe and careful transportation of your machinery from one location to another.
+          Farmers Tractor & Equip Co, we specialise in providing comprehensive transportation and shipping services for a wide range of agricultural and construction equipment, encompassing all makes, models, and years of manufacture. Our highly experienced team is dedicated to ensuring the safe and careful transportation of your machinery from one location to another.
         </p>
       </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8 mt-5 mb-12">

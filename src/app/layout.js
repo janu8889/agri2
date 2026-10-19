@@ -19,26 +19,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://statzeq.com"), // pune domeniul tău real
+  metadataBase: new URL("https://www.farmerstractors.com"), // pune domeniul tău real
 
   title: {
-    default: "Carl F. Statz & Sons Inc",
-    template: "%s | Carl F. Statz & Sons Inc",
+    default: "Farmers Tractor & Equip Co",
+    template: "%s | Farmers Tractor & Equip Co",
   },
 
   description:
-    "Carl F. Statz & Sons Inc offers high-quality agricultural and construction machinery.",
+    "Farmers Tractor & Equip Co offers high-quality agricultural and construction machinery.",
 
   alternates: {
     canonical: "/", 
   },
 
   openGraph: {
-    title: "Carl F. Statz & Sons Inc",
+    title: "Farmers Tractor & Equip Co",
     description:
       "High-quality agricultural and construction machinery.",
-    url: "https://statzeq.com",
-    siteName: "Carl F. Statz & Sons Inc",
+    url: "https://www.farmerstractors.com",
+    siteName: "Farmers Tractor & Equip Co",
     images: [
       {
         url: "/og-image.jpg",

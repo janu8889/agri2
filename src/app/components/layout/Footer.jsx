@@ -92,12 +92,12 @@ export default function Footer() {
             {/* Contact */}
             <div className="flex flex-col gap-2">
               <h2 className="mb-2 uppercase tracking-wide font-bold text-[18px] text-[#c9a227]">
-                Carl F. Statz & Sons Inc
+                Farmers Tractor & Equip Co
               </h2>
               <div className="flex flex-col gap-1">
-                <span className="text-[16px]">6101 Hogan Rd </span>
-                <span className="text-[16px]">Waunakee, WI 53597</span>
-                <span className="text-[16px]"> (608) 213-5356</span>
+                <span className="text-[16px]">1132 S Main St </span>
+                <span className="text-[16px]">Porterville, CA 93257</span>
+                <span className="text-[16px]"> (000) 000-0000</span>
               </div>
             </div>
 
@@ -231,7 +231,7 @@ export default function Footer() {
                 className="mt-1"
               />
               <span>
-                I consent to be contacted by Carl F. Statz & Sons Inc via phone, email, or SMS regarding this inquiry.
+                I consent to be contacted by Farmers Tractor & Equip Co via phone, email, or SMS regarding this inquiry.
               </span>
             </label>
 

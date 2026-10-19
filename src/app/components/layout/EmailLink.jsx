@@ -3,7 +3,7 @@
 export default function EmailLink() {
   return (
     <a
-      href="mailto:sales@statzeq.com"
+      href="mailto:sales@farmerstractors.com"
       className="text-[#c9a227] text-base md:text-lg font-semibold hover:underline hover:text-[#a17f0d] transition duration-300"
       onClick={() => {
         if (typeof window !== "undefined" && window.fbq) {
@@ -15,7 +15,7 @@ export default function EmailLink() {
         }
       }}
     >
-      sales@statzeq.com
+      sales@farmerstractors.com
     </a>
   );
 }

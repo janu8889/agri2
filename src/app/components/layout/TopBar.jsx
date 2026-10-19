@@ -26,7 +26,7 @@ export default function TopBar() {
           <div className="flex items-center space-x-2">
             <FaPhoneAlt className="text-[#c9a227]" />
             <a
-              href="tel: 6082135356"
+              href="tel: 00000"
               onClick={() => {
                 if (typeof window !== "undefined" && window.fbq) {
                   window.fbq("trackCustom", "Contact", {
@@ -37,7 +37,7 @@ export default function TopBar() {
                 }
               }}
             >
-              (608) 213-5356
+              00000
            </a>
            </div> 
 
@@ -46,7 +46,7 @@ export default function TopBar() {
             <FaMapMarkerAlt className="text-[#c9a227]" />
             <span></span>
           </div>
-            6101 Hogan Rd, Waunakee, WI 53597
+            1132 S Main St, Porterville, CA 93257
         </div>
 
       </div>

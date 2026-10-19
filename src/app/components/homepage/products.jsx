@@ -284,7 +284,7 @@ export default function ProductsSection({ products }) {
                 className="mt-1"
               />
               <span>
-                I consent to be contacted by Carl F. Statz & Sons Inc via phone, email, or SMS regarding this inquiry.
+                I consent to be contacted by Farmers Tractor & Equip Co via phone, email, or SMS regarding this inquiry.
               </span>
             </label>
 

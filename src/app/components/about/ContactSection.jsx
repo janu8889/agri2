@@ -32,9 +32,9 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
                 </h4>
 
                 <p className="text-[#555] leading-relaxed">
-                  6101 Hogan Rd, 
+                  1132 S Main St  
                   <br />
-                   Waunakee, WI 53597
+                  Porterville, CA 93257
                 </p>
               </div>
             </div>
@@ -69,10 +69,10 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
 
                 <p>
                   <a
-                    href="tel: 6082135356"
+                    href="tel: 00000"
                     className="text-[#555] hover:text-[#c9a227] transition-colors"
                   >
-                    (608) 213-5356
+                    000000
                   </a>
                 </p>
               </div>
@@ -96,7 +96,7 @@ function ContactSection({ LocationIcon, ClockIcon, PhoneIcon, ExternalIcon }) {
               </p>
 
               <a
-                href="https://maps.app.goo.gl/GiJdgJe2XM1SWBaP7"
+                href="https://maps.app.goo.gl/gtS6qCrjDmpXy3Dc6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#e6c65a] text-black font-semibold px-6 py-3 rounded-xl hover:bg-[#d4b44f] transition-all duration-300"
