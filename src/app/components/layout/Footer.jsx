@@ -97,7 +97,9 @@ export default function Footer() {
               <div className="flex flex-col gap-1">
                 <span className="text-[16px]">1132 S Main St </span>
                 <span className="text-[16px]">Porterville, CA 93257</span>
-                <span className="text-[16px]"> (000) 000-0000</span>
+                <a href="tel:5592028638" className="text-[16px] hover:text-[#c9a227] transition-colors">
+                  (559) 202-8638
+                </a>
               </div>
             </div>
 
